@@ -9,7 +9,7 @@
 # PROCESS-NAME: 1
 # TOTAL: 4
 
-DOMAIN-SUFFIX, jmsooo.com // 卷毛鼠 Emby资源库
-DOMAIN-SUFFIX, emby.ws // Dolphin Emby资源库
-DOMAIN-SUFFIX, emby.flowercloud.yt // 花云 Emby资源库
+DOMAIN-SUFFIX, jmsooo.com
+DOMAIN-SUFFIX, emby.ws
+DOMAIN-SUFFIX, emby.flowercloud.yt
 PROCESS-NAME, Infuse
