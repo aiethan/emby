@@ -1,0 +1,15 @@
+# NAME: Emby Server
+# AUTHOR: risethan
+# UPDATED: 2023-08-29 12:12:24
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 3
+# IP-ASN: 0
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# PROCESS-NAME: 0
+# TOTAL: 3
+
+DOMAIN-SUFFIX, jmsooo.com // 卷毛鼠 Emby资源库
+DOMAIN-SUFFIX, emby.ws // Dolphin Emby资源库
+DOMAIN-SUFFIX, emby.flowercloud.yt // 花云 Emby资源库
+PROCESS-NAME, Infuse
