@@ -1,2 +1,0 @@
-# emby
-Emby Server List
